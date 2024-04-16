@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/InstantMesh-jupyter/blob/main/InstantMesh_jupyter.ipynb) | InstantMesh_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/zest-jupyter/blob/main/zest_jupyter.ipynb) | InstantMesh_jupyter
 
 ### 🧬 Code
 https://github.com/ttchengab/zest_code
