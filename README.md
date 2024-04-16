@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/zest-jupyter/blob/main/zest_jupyter.ipynb) | InstantMesh_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/zest-jupyter/blob/main/zest_jupyter.ipynb) | InstantMesh_jupyter (Pro Colab 😭 VRAM 20GB)
 
 ### 🧬 Code
 https://github.com/ttchengab/zest_code
