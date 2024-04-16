@@ -18,6 +18,7 @@ https://arxiv.org/abs/2404.06425
 https://ttchengab.github.io/zest/
 
 ### 🖼 Output
+![Screenshot 2024-04-16 145705](https://github.com/camenduru/zest-jupyter/assets/54370274/4a24c729-eae5-4a7f-aafc-272896dd463a)
 
 ### 🏢 Sponsor
 https://modelslab.com
